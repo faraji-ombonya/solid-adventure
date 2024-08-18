@@ -2,7 +2,7 @@
 
 A heart disease prediction model that powers the [backend](https://github.com/faraji-ombonya/cautious-fortnight)
 
-## Technologies and Tools
+## Languages, Frameworks and Librabries
 
 - Python: Used for machine learning model development.
 - Scikit-Learn: Employed for building and evaluating machine learning models.
@@ -10,7 +10,7 @@ A heart disease prediction model that powers the [backend](https://github.com/fa
 - Pandas: Used for data analysis and manipulation.
 - Matplotlib: Employed for data visualization and plotting.
 
-## Key Concepts
+## Skills
 
 - Exploratory Data Analysis: Performed to gain insights into the dataset.
 - Machine Learning: Utilized for heart disease prediction.
