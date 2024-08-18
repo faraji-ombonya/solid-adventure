@@ -1,6 +1,7 @@
 # Heart Disease Prediction Model
 
-A heart disease prediction model that powers the [back-end of a heart disease prediction system](https://github.com/faraji-ombonya/cautious-fortnight).
+A heart disease prediction model that powers the [back-end of a heart disease prediction system](https://github.com/faraji-ombonya/cautious-fortnight). 
+Checkout the notebook [here](https://github.com/faraji-ombonya/solid-adventure/blob/master/solid-adventure.ipynb). 
 
 ## Languages, Frameworks and Librabries
 
